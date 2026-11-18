@@ -1,6 +1,6 @@
 # Mehdi Azarafza
 
-PhD researcher at Hochschule Hamm-Lippstadt. I work on LLMs and VLMs for autonomous systems, RAG, and robustness of AI vision models.
+AI Engineer and PhD Researcher at Hochschule Hamm-Lippstadt with 6+ years of experience in machine learning and NLP. I build LLM/VLM systems, RAG pipelines, multi-agent workflows, and vision-robustness frameworks for autonomous systems.
 
 ## Selected work
 
