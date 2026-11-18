@@ -1,6 +1,6 @@
 # Mehdi Azarafza
 
-AI Engineer and PhD Researcher at Hochschule Hamm-Lippstadt with 6+ years of experience in machine learning and NLP. I build LLM/VLM systems, RAG pipelines, multi-agent workflows, and vision-robustness frameworks for autonomous systems.
+AI Engineer and PhD Researcher at Hochschule Hamm-Lippstadt with 6+ years of experience in machine learning and NLP. I develop LLM-powered applications, RAG pipelines, multi-agent workflows, and fine-tuned VLM/vision solutions for autonomous systems.
 
 ## Selected work
 
